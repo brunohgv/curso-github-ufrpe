@@ -1,1 +1,12 @@
-Meu primeiro arquivo
+0. git config user.name "Seu nome"
+    git config user.email "Seu email"
+
+0.5. Cria uma pasta e entra nela
+
+1. git init - inicia o repositório
+
+2. cria um arquivo e digita algo nele
+
+3 git add <arquivo>
+
+4. git commit -m "mensagem do commit"
