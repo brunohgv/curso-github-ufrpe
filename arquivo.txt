@@ -10,3 +10,5 @@
 3 git add <arquivo>
 
 4. git commit -m "mensagem do commit"
+
+Meu commit automático
